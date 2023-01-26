@@ -1,0 +1,26 @@
+.main-div {
+    display: flex;
+    background-color: #0d2435;
+    padding: 3rem;
+    margin-bottom: 1.5rem;
+    color: white;
+}
+
+.page-top {
+    justify-content: center;
+}
+
+.project-heading {
+    display: flex;
+    justify-content: center;
+    font-size: calc(1.425rem + 2.1vw);
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.current-time-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
